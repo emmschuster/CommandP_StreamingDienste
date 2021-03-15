@@ -1,4 +1,4 @@
-public class Kind {
+public class Alte {
 private StreamingDienst streaming;
     
     public void setStream(StreamingDienst x) {

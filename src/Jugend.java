@@ -1,4 +1,4 @@
-public class Kind {
+public class Jugend {
 private StreamingDienst streaming;
     
     public void setStream(StreamingDienst x) {
